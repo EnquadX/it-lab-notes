@@ -10,7 +10,6 @@ I am using it to document:
 - scripts and diagrams that are actually useful
 
 ## Purpose
-This is **not** meant to look like I already know everything.
 It is meant to show:
 - real progress
 - practical learning
@@ -36,22 +35,10 @@ If you're visiting this repo, the most useful starting points are:
 - [`diagrams/index.md`](diagrams/index.md)
 
 ## What will likely appear here
-Examples of the type of content I want to keep here:
 - Google / Coursera IT Support learning notes
 - lab experiments from my Proxmox / VM / networking setup
 - troubleshooting cases like "what broke, what I checked, what fixed it"
 - selected OpenClaw setup notes, decisions, and lessons learned
 - practical checklists and runbooks I can reuse later
-
-## What will probably stay private
-I do **not** want this repo to expose sensitive personal or security details.
-That means I should avoid publishing:
-- secrets / tokens / keys
-- private IPs or sensitive internal layouts unless sanitized
-- personal data
-- anything that weakens security for convenience
-
 ## Current status
-This repo is still early.
-The structure is now being cleaned up so it is easier to use properly.
-Real content will matter more than empty structure.
+This repo is active, but in early development
