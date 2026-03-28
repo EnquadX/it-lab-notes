@@ -7,6 +7,3 @@ Use it for:
 - system layouts
 - workflow visuals
 - architecture sketches
-
-## Rule
-Only keep diagrams that help understanding or troubleshooting.
