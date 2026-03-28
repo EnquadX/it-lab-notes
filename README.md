@@ -1,6 +1,6 @@
 # IT Lab Notes
 
-This repo is my public learning log as I move deeper into IT.
+This repo is where I keep public notes from my IT learning and lab work.
 
 I am using it to document:
 - course notes and study takeaways
@@ -16,8 +16,7 @@ It is meant to show:
 - mistakes, fixes, and lessons
 - growing confidence with IT tools, systems, and troubleshooting
 
-So the goal is not perfection.
-The goal is documented improvement.
+I'm not trying to make this look perfect — I just want it to reflect real progress over time.
 
 ## Repo structure
 - `notes/` — study notes from courses, cert prep, concepts, and summaries
@@ -41,4 +40,4 @@ If you're visiting this repo, the most useful starting points are:
 - selected OpenClaw setup notes, decisions, and lessons learned
 - practical checklists and runbooks I can reuse later
 ## Current status
-This repo is active, but in early development
+Still early, but I'm building it out as I go.
