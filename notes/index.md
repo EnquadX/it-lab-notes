@@ -17,3 +17,6 @@ Use it for:
 
 ## Rule
 Prefer short, practical, reusable notes over giant walls of text.
+
+## Current notes
+- [Google IT Support — Module 1: Introduction to IT](google-it-support-module-1-introduction-to-it.md)
